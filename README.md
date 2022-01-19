@@ -2,7 +2,8 @@
 
 Web developer
 
-## Skills:
+## Skills: 🤔💻:
+
 - html
 
 - css
